@@ -1,0 +1,9 @@
+.form {
+  padding: 2em;
+  background-color: turquoise;
+  text-align: center;
+}
+
+#display {
+  gap: 20px;
+}
